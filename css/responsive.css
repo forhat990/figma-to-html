@@ -1,0 +1,617 @@
+@media screen and (max-width: 1199px){
+	header { padding: 20px 0; }
+	.banner-area { margin-top: 87px; }
+	.banner-info form input {
+		min-width: 313px;
+		height: calc(1.43rem + 0.74rem + 4px);
+		line-height: 26px;
+	}
+	.banner-info form input::placeholder { line-height: 26px; }
+	.banner-info form button { line-height: 26px; }
+	.banner-info h1 {
+		font-size: 45px;
+		line-height: 45px;
+	}
+	.box-body article h4 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.box-body figure { margin: 0 25px; }
+	.box-body article { padding: 0 25px; }
+	.box-body ul li {
+		font-size: 16px;
+		padding: 20px 20px 20px 25px;
+	}
+	.box-body ul li a { padding-right: 30px; }
+	.product-info .inner .heading h3 {
+		font-size: 40px;
+		line-height: 44px;
+		margin-bottom: 15px;
+	}
+	.product-info .inner .box { padding: 25px 15px 22px 15px; }
+	.product-area { margin-bottom: 70px; }
+	.integration { padding: 70px 0; }
+	footer { padding: 60px 0; }
+	.question { margin-top: 87px; }
+	.newsletter-area h3 {
+		font-size: 43px;
+		line-height: 50px;
+	}
+	.partner {
+		margin-top: 87px;
+		padding: 95px 0 120px 0;
+	}
+	.pricing { margin-top: 87px; }
+	.request-form { margin-top: 87px; }
+	.request-form-success { margin-top: 87px; }
+	.pricing-area { max-width: 730px; }
+	.partner-area .heading h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.pricing-area .heading h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.request-form-area .heading h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.request-form-success .heading h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.success { padding: 100px 20px; }
+	.success article h4 {
+		font-size: 21px;
+		line-height: 33px;
+	}
+	.success article p {
+		font-size: 15px;
+		line-height: 21px;
+	}
+	.request-form-area .info { padding: 40px 15px; }
+	.success h5 { font-size: 15px; }
+	.let-ask {
+		width: 100px;
+		height: 40px;
+		line-height: 40px;
+	}
+	.success article { margin-bottom: 75px; }
+	.request-form-area .info ul li { font-size: 17px; }
+	.price-item { padding: 24px 10px; }
+	.pricing-about .heading h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.price-item-link {
+		width: 200px;
+		height: 40px;
+	}
+	.banner > figure img {
+		max-width: initial;
+		width: initial;
+		height: initial;
+	}
+}
+@media screen and (max-width: 991px){
+	header { padding: 15px 0; }
+	.header-area nav ul { margin-top: 8px; }
+	.header-area nav ul li { margin: 0 !important; }
+	.header-area nav ul li a { 
+		padding-left: 1rem !important;
+		padding-right: 1rem !important; 
+	}
+	.header-area nav ul li.meta-link {
+		margin-top: 8px !important;
+		margin-bottom: 8px !important;
+	}
+	.header-area nav ul li.dropdown {
+		margin-top: 8px !important;
+		margin-bottom: 8px !important;
+	}
+	.header-area nav ul li.dropdown > a { padding: 0 !important; }
+	.banner-area { 
+		margin-top: 74px; 
+		padding: 44px 0 24px 0;
+	}
+	.banner-info form { max-width: 420px; }
+	.banner-area-wrap figure {
+		margin-top: 0; 
+		margin-bottom: 30px; 
+		max-width: 350px;
+	}
+	.banner-info h1 {
+		font-size: 40px;
+		line-height: 45px;
+		margin-bottom: 20px;
+	}
+	.banner-info p {
+		font-size: 17px;
+		line-height: 21px;
+	}
+	.banner-info form { margin-top: 50px; }
+	.product-info { width: 100%; }
+	.product-area .product-img { width: 100%; }
+	.product-area:nth-child(2n+1) .product-img figure { margin-left: 0; }
+	.product-info .inner {
+		max-width: 750px;
+		margin: 0 auto;
+	}
+	.product-area .product-img figure { max-width: 500px; }
+	.product-area:nth-child(2n+2) .product-img figure {
+		margin-left: auto;
+		max-width: 500px;
+	}
+	.product-area:first-child .product-img figure {
+		margin-right: auto;
+		margin-left: auto;
+	}
+	.customer-info { padding: 67px 0 0 40px; }
+	.newsletter-area { padding: 30px 60px 30px 30px; }
+	.newsletter-area h3 {
+		font-size: 30px;
+		line-height: 43px;
+	}
+	.let-start { margin-top: 20px; }
+	.integration { padding: 50px 0; }
+	.customer-info h3 {
+		font-size: 34px;
+		line-height: 36px;
+	}
+	.testimonial-item { max-width: 480px; }
+	.integration-area h3 {
+		font-size: 40px;
+		line-height: 45px;
+		margin-bottom: 30px;
+	}
+	.testimonial-item h3 {
+		font-size: 40px;
+		line-height: 40px;
+	}
+	.product-info .inner .heading h3 {
+		font-size: 36px;
+		line-height: 40px;
+	}
+	footer { padding: 50px 0; }
+	.offer-area .heading h3 { font-size: 40px; }
+	.product-area { margin-bottom: 50px; }
+	.customers-area ul li {
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.customer-info span { font-size: 90px; }
+	.question { 
+		margin-top: 74px;
+		padding: 95px 0 120px 0; 
+	}
+	.question-area .heading {
+		max-width: 365px;
+		margin-bottom: 100px;
+	}
+	.question-area .heading h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.question-area .box article h4 { font-size: 18px; }
+	.question-area .box button {
+		font-size: 25px;
+		line-height: 45px;
+	}
+	.partner {
+		margin-top: 74px;
+		padding: 95px 0 0 0;
+	}
+	.pricing {
+		margin-top: 74px;
+		padding: 95px 0 120px 0;
+	}
+	.request-form {
+		margin-top: 74px;
+		padding: 95px 0 120px 0;
+	}
+	.request-form-success {
+		margin-top: 74px;
+		padding: 95px 0 120px 0;
+	}
+	.about-partner { padding: 25px 25px 25px 25px; }
+	.about-partner-info p { font-size: 17px; }
+	.request-form-area .info h3 {
+		font-size: 23px;
+		line-height: 33px;
+	}
+	.request-form-area .info ul li {
+		font-size: 16px;
+		line-height: 21px;
+		margin-bottom: 30px;
+	}
+	.request-form-area .info { padding: 42px 20px; }
+	.request-form-area form { padding: 31px 20px 29px 20px; }
+	.request-form-area form button {
+		width: 120px;
+		height: 38px;
+	}
+	.pricing-about .heading h3 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.form-area form figure { margin-bottom: 20px; }
+	.form-area form .heading h3 {
+		font-size: 48px;
+		line-height: 40px;
+	}
+	.form-area form .heading { margin-bottom: 25px; }
+	.button-groups { margin-top: 2rem !important; }
+}
+@media screen and (max-width: 767px){
+	header { padding: 13px 0; }
+	.header-area nav { padding: 0 !important; }
+	.banner-area { margin-top: 70px; }
+	.product-info .inner { max-width: 570px; }
+	.product-img figure { max-width: 400px; }
+	.offer-area .box { max-width: 100%; }
+	.product-info .inner .box-item { margin: 0 15px 40px 15px; }
+	.download-link {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.customers-area { max-width: 510px; }
+	.customer-info { max-width: 100%; }
+	.product-area { margin-bottom: 20px; }
+	.footer-info figure {
+		display: table;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.footer-info p { text-align: center; }
+	.footer-info .social {
+		display: table;
+		margin: 0 auto;
+	}
+	.footer-info .social ul li:nth-child(2) { margin-right: 0; }
+	.payment { margin-right: auto; }
+	.newsletter-area { padding: 30px; }
+	.integration { padding: 20px 0; }
+	.customers-area ul { margin-top: 0; }
+	.customer-info { margin-bottom: 50px; }
+	.integration-area h3 {
+		font-size: 30px;
+		line-height: 33px;
+		margin-bottom: 10px;
+	}
+	.newsletter-area h3 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.let-start {
+		width: 135px;
+		height: 35px;
+		line-height: 35px;
+		margin-top: 5px;
+	}
+	.testimonial-item h3 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	.customer-info h3 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	.customer-info span { font-size: 70px; }
+	.question { 
+		margin-top: 70px; 
+		padding: 95px 0 100px 0;
+	}
+	.question-area .box button {
+		font-size: 25px;
+		line-height: 45px;
+	}
+	.question-area .box button { padding: 0 25px; }
+	.partner {
+		margin-top: 70px;
+		padding: 95px 0 0 0;
+	}
+	.pricing {
+		margin-top: 70px;
+		padding: 95px 0 50px 0;
+	}
+	.request-form {
+		margin-top: 70px;
+		padding: 95px 0 0 0;
+	}
+	.request-form-success {
+		margin-top: 70px;
+		padding: 95px 0 0 0;
+	}
+	.about-partner figure {
+		margin: 0 auto;
+		display: table;
+	}
+	.about-partner-info h4 { text-align: center; }
+	.about-partner-info p { text-align: center; }
+	.become-a-partner { margin: 38px auto 0 auto; }
+	.about-partner-info h4 { font-size: 23px; }
+	.price-item {
+		max-width: 295px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.pricing-about .heading h3 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.service-item {padding: 27px 20px 9px 20px;}
+}
+@media screen and (max-width: 575px){
+	header { padding: 10px 0; }
+	.header-area nav ul li a { padding: .25rem .75rem !important; }
+	.header-area nav ul li.dropdown > a > span { line-height: 37px; }
+	.banner-area { margin-top: 64px; }
+	.banner-area-wrap figure { padding-left: 50px; }
+	.offer-area .heading h3 {
+		font-size: 40px;
+		line-height: 42px;
+	}
+	.offer-area .heading p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.offer { padding: 70px 0 50px 0; }
+	.box-body ul li { padding: 15px 20px 15px 25px; }
+	.banner-info h1 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.question { margin-top: 74px; }
+	.question-area .box button { min-height: 55px; }
+	.question-area .box button { font-size: 20px; }
+	.question-area .box button {
+		padding: 0 20px;
+		background-size: 20px;
+	}
+	.question-area .box button:focus { background-size: 20px; }
+	.about-partner figure { max-width: 150px; }
+	.request-form-area form { padding: 31px 15px 29px 15px; }
+	.request-form-area .heading p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.success { padding: 70px 20px; }
+	.about-partner-info h4 { font-size: 18px; }
+	.about-partner-info p { font-size: 15px; }
+	.box-body article h4 {font-size: 16px;line-height: 20px;}
+	.pricing-area .heading h3 {
+		font-size: 29px;
+		line-height: 36px;
+	}
+	.form-area form .heading h3 {
+		font-size: 33px;
+		line-height: 36px;
+	}
+	.form-area form { padding: 20px; }
+	.back { min-width: 100px !important; }
+}
+@media screen and (max-width: 479px){
+	.banner-info h1 { font-size: 42px; }
+	.banner-info form input { padding-right: 0 !important; }
+	.banner-info form button { margin-right: .5rem; }
+	.banner-info form input { min-width: 248px; }
+	.banner-info form { max-width: 355px; }
+	.banner-info { margin-bottom: 20px; }
+	.login .form-area form button { min-width: 100px !important; }
+	.skip { min-width: 100px; }
+	.progress-bar ul li {
+		width: 100%;
+		margin: 0 0 20px 0 !important;
+	}
+}
+@media screen and (max-width: 414px){
+	.banner-info form { max-width: 315px; }
+	.banner-info form input {
+		min-width: 213px;
+		padding-left: .5rem;
+		padding-top: 0;
+		padding-bottom: 0;
+		height: calc(1rem + 0.73rem + 4px);
+	}
+	.banner-info h1 {
+		font-size: 38px;
+		line-height: 40px;
+	}
+	.banner-info form input::placeholder { line-height: 31px; }
+	.banner-info form button {
+		font-size: 15px;
+		line-height: 21px;
+	}
+	.offer { padding: 50px 0; }
+	.offer-area .heading h3 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	.newsletter-area h3 {
+		font-size: 20px;
+		line-height: 25px;
+	}
+	.integration-area h3 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.testimonial-item h3 {
+		font-size: 23px;
+		line-height: 26px;
+	}
+	.customer-info h3 {
+		font-size: 22px;
+		line-height: 28px;
+	}
+	.product-info .inner .heading h3 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.product-info .inner .heading p { padding-right: 70px; }
+	.product-info .inner .heading p {
+		font-size: 17px;
+		line-height: 24px;
+	}
+	.request-form-area .info h3 {
+		font-size: 21px;
+		line-height: 30px;
+	}
+	.request-form-area .heading h3 {
+		font-size: 25px;
+		line-height: 40px;
+	}
+	.request-form-area .heading { margin-bottom: 100px; }
+	.request-form-area .heading { margin-bottom: 100px; }
+	.partner-area .heading { margin-bottom: 100px; }
+	.success article h4 {
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.request-form-area .info { padding: 40px 15px; }
+	.about-partner-info p { text-align: justify !important; }
+	.about-partner figure { max-width: 120px; }
+	.forgot-pass.back { min-width: 100px !important; }
+}
+@media screen and (max-width: 375px){
+	header { padding: 5px 0; }
+	.banner-area { margin-top: 54px; }
+	.banner-info form { max-width: 265px; }
+	.banner-info form input::placeholder { font-size: 14px; }
+	.banner-info form button {
+		font-size: 14px;
+		padding-right: .5rem;
+		padding-left: .5rem;
+	}
+	.banner-info form input {
+		min-width: initial;
+		max-width: 170px;
+	}
+	.banner-info h1 {
+		font-size: 34px;
+		line-height: 36px;
+	}
+	.banner-info p {
+		font-size: 16px;
+		line-height: 21px;
+	}
+	.offer-area .heading h3 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	.question { margin-top: 54px; }
+	.question-area .heading h3 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.question-area .box article h4 { font-size: 16px; }
+	.question-area .box button { font-size: 18px; }
+	.question-area .box button { padding: 0 15px; }
+	.partner { margin-top: 54px; }
+	.pricing { margin-top: 54px; }
+	.request-form { margin-top: 54px; }
+	.request-form-success { margin-top: 54px; }
+	.partner-area .heading h3 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.pricing-area .heading h3 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.request-form-area .heading h3 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.request-form-success .heading h3 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.request-form-area .heading p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.request-form-success .heading p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.partner-area .heading p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.pricing-area .heading p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.request-form-area .info h3 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.form-area form .heading h3 {
+		font-size: 32px;
+		line-height: 30px;
+	}
+	.form-area form figure { margin-bottom: 15px; }
+	.forgot-pass, .forgot-pass button {
+		font-size: 13px;
+		min-width: 140px !important;
+		height: 40px;
+		line-height: 40px;
+	}
+	.skip,.back {
+		font-size: 13px;
+		height: 40px;
+		line-height: 40px;
+		min-width: 80px;
+	}
+	.login .form-area form button {
+		min-width: 100px;
+		height: 40px;
+		margin-top: 20px;
+	}
+	.progress-bar ul li::before {
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+	}
+	.progress-bar ul li.done::after {
+		top: 10px;
+		left: 6px;
+	}
+	.progress-bar ul li {
+		font-size: 14px;
+		line-height: 22px;
+		padding: 2px 0 0px 40px;
+	}
+	.form-area form .heading p {
+		font-size: 15px;
+		line-height: 20px;
+	}
+	.form-area form .heading h3 {
+		font-size: 22px;
+		line-height: 22px;
+	}
+	.progress-bar { margin-bottom: 0; }
+	.banner.login { height: 100%; }
+	.banner > figure {
+		overflow: hidden;
+		max-height: 600px;
+	}
+}
+@media screen and (max-width: 374px) {
+	.button-group-inner {
+		float: none;
+		width: 100%;
+		display: block;
+		margin: 20px 0 0 0;
+	}
+	.back {
+		width: 100%;
+		display: table;
+		float: none;
+	}
+	.skip {
+		margin: 0;
+		min-width: 98px;
+	}
+}
